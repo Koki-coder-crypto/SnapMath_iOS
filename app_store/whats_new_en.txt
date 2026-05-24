@@ -1,0 +1,7 @@
+Welcome to SnapMath 1.0!
+
+• Instant AI-powered math solving from photos
+• Step-by-step solution breakdowns
+• Camera and photo library support
+• Complete solution history
+• Beautiful dark glassmorphism UI

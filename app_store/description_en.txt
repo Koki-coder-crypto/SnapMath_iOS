@@ -1,0 +1,30 @@
+SnapMath - AI Math Solver
+
+Snap a photo of any handwritten or printed math problem and get instant, step-by-step solutions powered by Claude AI.
+
+INSTANT SOLUTIONS
+Point your camera at any math problem — algebra, calculus, geometry, trigonometry, statistics — and get a complete, step-by-step solution in seconds.
+
+HOW IT WORKS
+1. Snap a photo or pick from your library
+2. Claude AI analyzes and solves the problem
+3. See every step explained clearly
+4. Save to history for later review
+
+FEATURES
+• Camera and photo library support
+• Step-by-step solutions with full working
+• Clean solution history
+• Works with handwritten and printed problems
+• Algebra, Calculus, Geometry, Statistics, and more
+• Beautiful dark glass UI
+
+SNAPMATH PRO
+• Unlimited solves (free plan: 5/month)
+• Priority AI processing
+• Full history access
+• Export solutions
+
+Whether you're a student struggling with homework, a professional checking calculations, or just curious — SnapMath makes math instantly accessible.
+
+Privacy: We take your privacy seriously. Images are sent only for AI processing and are never stored on our servers.
