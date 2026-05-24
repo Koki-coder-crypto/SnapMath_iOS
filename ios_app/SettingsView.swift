@@ -148,11 +148,14 @@ struct SettingsView: View {
                                 .foregroundStyle(Color.appMuted)
                         }
                         .padding(.horizontal, 16).padding(.vertical, 14)
-                        .background(
-                            i == 0 ? RoundedRectangle(cornerRadius: 20).fill(Color.appSurface)
-                                       .overlay(RoundedRectangle(cornerRadius: 20).stroke(Color.appBorder, lineWidth: 1)) :
-                                     RoundedRectangle(cornerRadius: 0).fill(Color.appSurface)
-                        )
+                        .background {
+                            if i == 0 {
+                                RoundedRectangle(cornerRadius: 20).fill(Color.appSurface)
+                                    .overlay(RoundedRectangle(cornerRadius: 20).stroke(Color.appBorder, lineWidth: 1))
+                            } else {
+                                RoundedRectangle(cornerRadius: 0).fill(Color.appSurface)
+                            }
+                        }
                     }
                     .buttonStyle(.plain)
                 }
